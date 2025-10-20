@@ -50,4 +50,8 @@ public class ProductService {
     public void deleteProduct(int id) {
         Repo.deleteById(id);
     }
+
+    public List<Product> searchProducts(String keyword) {
+        return   Repo.searchProducts(keyword);
+    }
 }
