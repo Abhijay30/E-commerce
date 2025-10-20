@@ -18,7 +18,7 @@ The project is built on the following stack:
 
 | Technology | Version | Description |
 | :---- | :---- | :---- |
-| **Java** | **21 ** | Core programming language. |
+| **Java** | **21** | Core programming language. |
 | **Spring Boot** | **3.5.6** | Framework for rapid application development and configuration. |
 | **Spring Data JPA** | N/A (Included with Boot) | Used for easy database interactions and ORM. |
 | **Database** | **H2 Database (In-Memory)** | Lightweight, fast database for development and testing. |
